@@ -425,7 +425,7 @@ function updateLink(linkElement, obj) {
 /* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
-document.write('it works');
+document.write('it works, written entry.js ');
 document.write(__webpack_require__(0));
 
 __webpack_require__(1);
